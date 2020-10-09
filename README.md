@@ -8,6 +8,6 @@ The project is further divided into sub-parts:
 <li>Predicting the best pick editor's comment on the NYT articles
 <li>Article Summarizer 
 <li>Auto-Text Generation on Articles <br>
-You can find the summary of the project here [Project Report](https://github.com/LISAPATEL98/Articlesummarizer/blob/master/NYT_Report.pdf).
+
+ You can find the summary of the project here [Project Report](https://github.com/LISAPATEL98/Articlesummarizer/blob/master/NYT_Report.pdf).
  
-  
